@@ -4,7 +4,7 @@ from aiogram.filters import Command
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 # Твой токен
-TOKEN = "8502548909:AAFXUrHt7sO2MllBWaq9TTnGugCl4FkEfqM"
+TOKEN = "-"
 # Ссылка на твой сайт (когда опубликуешь на GitHub Pages, замени эту ссылку)
 WEBSITE_URL = "https://твой-логин.github.io/название-репозитория/"
 
